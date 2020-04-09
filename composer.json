@@ -1,5 +1,5 @@
 {
-    "name": "ysekine13/composer-test",
+    "name": "yutaka13/composer-test",
     "type": "library",
     "require": {
         "php": "^7.2"
